@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SteelHead</string>
+    <string name="connect_btn">CONNECT</string>
+    <string name="parktap_service">Unknown service</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="parktap_characteristic">Unknown characteristic</string>
+    <string name="device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="disconnected">Disconnected</string>
+
+
+    <style name="Theme.ActionBarSize" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarSize">50dip</item>
+        <item name="android:actionBarSize">50dip</item>
+    </style>
+
+
+</resources>
